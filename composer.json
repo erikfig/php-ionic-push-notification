@@ -1,4 +1,6 @@
 {
+    "name": "webdevbr/php-ionic-push-notification",
+    "description": "Push notification component for PHP",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
     },
